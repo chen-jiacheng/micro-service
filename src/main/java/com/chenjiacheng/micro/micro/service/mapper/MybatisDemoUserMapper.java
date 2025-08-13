@@ -18,7 +18,7 @@ package com.chenjiacheng.micro.micro.service.mapper;
 
 import java.util.List;
 
-import com.chenjiacheng.micro.micro.service.mybatis.entity.MybatisDemoUser;
+import com.chenjiacheng.micro.micro.service.entity.MybatisDemoUser;
 import org.apache.ibatis.annotations.Mapper;
 
 /**
